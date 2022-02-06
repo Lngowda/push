@@ -1,0 +1,20 @@
+@font-face {
+    font-family: abel;
+    src: url('../fonts/Comforter/Comforter-Regular.ttf')
+}
+
+@font-face {
+    font-family: mochi;
+    src: url('../fonts/Mochiy_Pop_P_One/MochiyPopPOne-Regular.ttf')
+}
+
+@font-face {
+    font-family: dongle1;
+    src: url('../fonts/Dongle/Dongle-Bold.ttf')
+}
+
+
+@font-face {
+    font-family: dongle;
+    src: url('../fonts/Dongle/Dongle-Regular.ttf')
+}
